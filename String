@@ -1,0 +1,8 @@
+ void main(){
+  String a = ('Hamza Qureshi');
+  print(a);
+  print(a.length);
+  print(a[2]);
+  print(a.substring(0,5));
+  print(a.replaceAll('a','*'));
+ }
