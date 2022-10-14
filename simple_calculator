@@ -1,0 +1,16 @@
+void main(){
+  int num1 = 20;
+  int num2 = 30;
+  int add = num1 + num2;
+  int sub = num1 - num2;
+  int mul = num1 * num2;
+  double div = num1 / num2;
+  
+  print(add);
+  print(sub);
+  print(mul);
+  print(div);
+  print(div.ceil());
+  print(div.round());
+  print(div.floor());
+}
